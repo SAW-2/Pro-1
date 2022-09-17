@@ -1,6 +1,6 @@
-Name:Abdul 
-Qualification:B.A
-Exp:8
-Address:xxxxxxx
-
-
+Name:Abdul Vahid 
+Qualification:B.A, B.Ed
+Exp:14
+Address:Bangalour
+ExP:15
+Date of Joiniung : Today
