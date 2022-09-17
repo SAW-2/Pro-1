@@ -1,7 +1,6 @@
-Nanme: 
-Name:
-Qualification:
-Exp:
-Address:
+Name:Abdul 
+Qualification:B.A
+Exp:8
+Address:xxxxxxx
 
 
