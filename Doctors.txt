@@ -1,0 +1,12 @@
+
+Doctor name : Dr.Sampath 
+Doctor Qualification : MBBS, DNB
+Salary: 1.5 Laks
+Speciality : General Physicain 
+Hospital : Manipal Hospital
+Address : Old Airport Road, Banagalour
+Date of appointment : MON-TUE-SAT-SUN
+
+
+
+
